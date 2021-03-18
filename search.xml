@@ -4,13 +4,463 @@
   
     
     <entry>
-      <title>1</title>
-      <link href="2021/03/17/1/"/>
-      <url>2021/03/17/1/</url>
+      <title>config</title>
+      <link href="2021/03/18/config/"/>
+      <url>2021/03/18/config/</url>
       
-        <content type="html"><![CDATA[<h2 id="第一个blog"><a href="#第一个blog" class="headerlink" title="第一个blog"></a>第一个blog</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
       
       
+      <categories>
+          
+          <category> spring cloud </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> spring cloud config </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>zuul</title>
+      <link href="2021/03/18/zuul/"/>
+      <url>2021/03/18/zuul/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> spring cloud </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> spring cloud zuul </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>zipkin</title>
+      <link href="2021/03/18/zipkin/"/>
+      <url>2021/03/18/zipkin/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> spring cloud </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> spring cloud zipkin </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hystrix</title>
+      <link href="2021/03/18/hystrix/"/>
+      <url>2021/03/18/hystrix/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> spring cloud </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> spring cloud hystrix </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>feign</title>
+      <link href="2021/03/18/feign/"/>
+      <url>2021/03/18/feign/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> spring cloud </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> spring cloud feign </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ribbon</title>
+      <link href="2021/03/18/ribbon/"/>
+      <url>2021/03/18/ribbon/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> spring cloud </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> spring cloud ribbon </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>springcloud</title>
+      <link href="2021/03/18/springcloud/"/>
+      <url>2021/03/18/springcloud/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> spring cloud </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> spring cloud </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>eureka</title>
+      <link href="2021/03/18/eureka/"/>
+      <url>2021/03/18/eureka/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> spring cloud </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> spring cloud eureka </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>springboot</title>
+      <link href="2021/03/18/springboot/"/>
+      <url>2021/03/18/springboot/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>linux</title>
+      <link href="2021/03/18/linux/"/>
+      <url>2021/03/18/linux/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>mycat</title>
+      <link href="2021/03/18/mycat/"/>
+      <url>2021/03/18/mycat/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 分库分表中间件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> mycat </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>sharding-sphere</title>
+      <link href="2021/03/18/sharding-sphere/"/>
+      <url>2021/03/18/sharding-sphere/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 分库分表中间件 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> sharding-sphere </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>mongodb</title>
+      <link href="2021/03/18/mongodb/"/>
+      <url>2021/03/18/mongodb/</url>
+      
+        <content type="html"><![CDATA[<h2 id="mongodb-知识概览"><a href="#mongodb-知识概览" class="headerlink" title="mongodb 知识概览"></a>mongodb 知识概览</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 非关系型数据库 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 文档数据库mongodb </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>redis</title>
+      <link href="2021/03/18/redis/"/>
+      <url>2021/03/18/redis/</url>
+      
+        <content type="html"><![CDATA[<h2 id="redis-知识概览"><a href="#redis-知识概览" class="headerlink" title="redis 知识概览"></a>redis 知识概览</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 非关系型数据库 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 分布式缓存redis </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>postgresql</title>
+      <link href="2021/03/18/postgresql/"/>
+      <url>2021/03/18/postgresql/</url>
+      
+        <content type="html"><![CDATA[<h2 id="postgresql-知识概览"><a href="#postgresql-知识概览" class="headerlink" title="postgresql 知识概览"></a>postgresql 知识概览</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 关系型数据库 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> postgresql </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>oracle</title>
+      <link href="2021/03/18/oracle/"/>
+      <url>2021/03/18/oracle/</url>
+      
+        <content type="html"><![CDATA[<h2 id="oracle-知识概览"><a href="#oracle-知识概览" class="headerlink" title="oracle 知识概览"></a>oracle 知识概览</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 关系型数据库 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> oracle </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>mysql</title>
+      <link href="2021/03/18/mysql/"/>
+      <url>2021/03/18/mysql/</url>
+      
+        <content type="html"><![CDATA[<h2 id="mysql-知识概览"><a href="#mysql-知识概览" class="headerlink" title="mysql 知识概览"></a>mysql 知识概览</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 关系型数据库 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> mysql </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>K8S</title>
+      <link href="2021/03/18/k8s/"/>
+      <url>2021/03/18/k8s/</url>
+      
+        <content type="html"><![CDATA[<h2 id="K8S-知识概览"><a href="#K8S-知识概览" class="headerlink" title="K8S 知识概览"></a>K8S 知识概览</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 云计算 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Kubenates </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>docker</title>
+      <link href="2021/03/18/docker/"/>
+      <url>2021/03/18/docker/</url>
+      
+        <content type="html"><![CDATA[<h2 id="docker-知识概览"><a href="#docker-知识概览" class="headerlink" title="docker 知识概览"></a>docker 知识概览</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 云计算 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 虚拟化（容器）技术 </tag>
+            
+        </tags>
       
     </entry>
     
