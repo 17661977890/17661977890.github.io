@@ -4,6 +4,826 @@
   
     
     <entry>
+      <title>hadoop</title>
+      <link href="2021/03/18/hadoop/"/>
+      <url>2021/03/18/hadoop/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 大数据 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hadoop </tag>
+            
+            <tag> 大数据 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>vue</title>
+      <link href="2021/03/18/vue/"/>
+      <url>2021/03/18/vue/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 前端 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> vue </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分布式id</title>
+      <link href="2021/03/18/fen-bu-shi-id/"/>
+      <url>2021/03/18/fen-bu-shi-id/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 微服务 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 分布式id </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>可视化监控</title>
+      <link href="2021/03/18/ke-shi-hua-jian-kong/"/>
+      <url>2021/03/18/ke-shi-hua-jian-kong/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 微服务 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 微服务 </tag>
+            
+            <tag> prometheus </tag>
+            
+            <tag> grafana </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ELK</title>
+      <link href="2021/03/18/elk/"/>
+      <url>2021/03/18/elk/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 微服务 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ELK </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>skywalking</title>
+      <link href="2021/03/18/skywalking/"/>
+      <url>2021/03/18/skywalking/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 微服务 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 微服务 </tag>
+            
+            <tag> skywalking </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>jenkins</title>
+      <link href="2021/03/18/jenkins/"/>
+      <url>2021/03/18/jenkins/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> devops </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> devops </tag>
+            
+            <tag> jenkins </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>设计模式</title>
+      <link href="2021/03/18/she-ji-mo-shi/"/>
+      <url>2021/03/18/she-ji-mo-shi/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 设计模式 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>spring-cloud-alibaba</title>
+      <link href="2021/03/18/spring-cloud-alibaba/"/>
+      <url>2021/03/18/spring-cloud-alibaba/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 微服务 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 微服务 </tag>
+            
+            <tag> spring cloud alibaba </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>sms</title>
+      <link href="2021/03/18/sms/"/>
+      <url>2021/03/18/sms/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> spring cloud alibaba </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> alibaba cloud sms </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>oss</title>
+      <link href="2021/03/18/oss/"/>
+      <url>2021/03/18/oss/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> spring cloud alibaba </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> alibaba cloud oss </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>dubbo</title>
+      <link href="2021/03/18/dubbo/"/>
+      <url>2021/03/18/dubbo/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> spring cloud alibaba </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> dubbo </tag>
+            
+            <tag> 微服务 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>seata</title>
+      <link href="2021/03/18/seata/"/>
+      <url>2021/03/18/seata/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> spring cloud alibaba </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 微服务 </tag>
+            
+            <tag> seata </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>nacos</title>
+      <link href="2021/03/18/nacos/"/>
+      <url>2021/03/18/nacos/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> spring cloud alibaba </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 微服务 </tag>
+            
+            <tag> nacos </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>sentinel</title>
+      <link href="2021/03/18/sentinel/"/>
+      <url>2021/03/18/sentinel/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> spring cloud alibaba </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 微服务 </tag>
+            
+            <tag> sentinel </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>JVM</title>
+      <link href="2021/03/18/jvm/"/>
+      <url>2021/03/18/jvm/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> JVM </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>JUC</title>
+      <link href="2021/03/18/juc/"/>
+      <url>2021/03/18/juc/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> JUC </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>solr</title>
+      <link href="2021/03/18/solr/"/>
+      <url>2021/03/18/solr/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 搜索引擎 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> solr </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>elasticsearch</title>
+      <link href="2021/03/18/elasticsearch/"/>
+      <url>2021/03/18/elasticsearch/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 搜索引擎 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ES </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MQ</title>
+      <link href="2021/03/18/mq/"/>
+      <url>2021/03/18/mq/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 消息队列mq </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> MQ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>rocketMq</title>
+      <link href="2021/03/18/rocketmq/"/>
+      <url>2021/03/18/rocketmq/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 消息队列mq </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> rocketMq </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>spring-security-oauth2</title>
+      <link href="2021/03/18/spring-security-oauth2/"/>
+      <url>2021/03/18/spring-security-oauth2/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> spring-security-oauth2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>spring-security</title>
+      <link href="2021/03/18/spring-security/"/>
+      <url>2021/03/18/spring-security/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> spring-security </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>mybatis</title>
+      <link href="2021/03/18/mybatis/"/>
+      <url>2021/03/18/mybatis/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> orm-mybatis </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>nginx</title>
+      <link href="2021/03/18/nginx/"/>
+      <url>2021/03/18/nginx/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> web server </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> nginx </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>springmvc</title>
+      <link href="2021/03/18/springmvc/"/>
+      <url>2021/03/18/springmvc/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> springmvc </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>spring</title>
+      <link href="2021/03/18/spring/"/>
+      <url>2021/03/18/spring/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> spring </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tomcat</title>
+      <link href="2021/03/18/tomcat/"/>
+      <url>2021/03/18/tomcat/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待"><a href="#敬请期待" class="headerlink" title="敬请期待"></a>敬请期待</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> web server </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> tomcat </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>svn</title>
+      <link href="2021/03/18/svn/"/>
+      <url>2021/03/18/svn/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> svn </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>git</title>
+      <link href="2021/03/18/git/"/>
+      <url>2021/03/18/git/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> git </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>devops</title>
+      <link href="2021/03/18/devops/"/>
+      <url>2021/03/18/devops/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> devops </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> devops </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>maven</title>
+      <link href="2021/03/18/maven/"/>
+      <url>2021/03/18/maven/</url>
+      
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> maven </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>config</title>
       <link href="2021/03/18/config/"/>
       <url>2021/03/18/config/</url>
@@ -63,14 +883,14 @@
       
       <categories>
           
-          <category> spring cloud </category>
+          <category> 微服务 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> spring cloud zipkin </tag>
+            <tag> zipkin </tag>
             
         </tags>
       
@@ -163,7 +983,7 @@
       
       <categories>
           
-          <category> spring cloud </category>
+          <category> 微服务 </category>
           
       </categories>
       
@@ -208,9 +1028,21 @@
       <link href="2021/03/18/springboot/"/>
       <url>2021/03/18/springboot/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h2 id="敬请期待…"><a href="#敬请期待…" class="headerlink" title="敬请期待…"></a>敬请期待…</h2>]]></content>
       
       
+      <categories>
+          
+          <category> java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> springboot </tag>
+            
+        </tags>
       
     </entry>
     
