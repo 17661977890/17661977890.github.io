@@ -97,11 +97,11 @@
       
         <tags>
             
-            <tag> 微服务 </tag>
-            
             <tag> prometheus </tag>
             
             <tag> grafana </tag>
+            
+            <tag> 微服务 </tag>
             
         </tags>
       
@@ -307,9 +307,9 @@
       
         <tags>
             
-            <tag> dubbo </tag>
-            
             <tag> 微服务 </tag>
+            
+            <tag> dubbo </tag>
             
         </tags>
       
@@ -388,9 +388,9 @@
       
         <tags>
             
-            <tag> 微服务 </tag>
-            
             <tag> sentinel </tag>
+            
+            <tag> 微服务 </tag>
             
         </tags>
       
